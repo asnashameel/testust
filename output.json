@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2023-10-27 10:00:12,789",
+        "error_message": "Database connection failed: Connection refused"
+    },
+    {
+        "timestamp": "2023-10-27 10:00:20,321",
+        "error_message": "Invalid user input: Username cannot be empty"
+    },
+    {
+        "timestamp": "2023-10-27 10:00:28,987",
+        "error_message": "File not found: /path/to/missing/file"
+    },
+    {
+        "timestamp": "2023-10-27 10:00:40,543",
+        "error_message": "An unexpected error has occurred"
+    }
+]

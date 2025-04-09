@@ -1,0 +1,9 @@
+2023-10-27 10:00:00,123 - INFO - Application started
+2023-10-27 10:00:05,456 - DEBUG - Processing request: /api/data
+2023-10-27 10:00:12,789 - ERROR - Database connection failed: Connection refused
+2023-10-27 10:00:15,000 - INFO - Request completed: /api/data
+2023-10-27 10:00:20,321 - ERROR - Invalid user input: Username cannot be empty
+2023-10-27 10:00:22,654 - DEBUG - Data retrieved from cache
+2023-10-27 10:00:28,987 - ERROR - File not found: /path/to/missing/file
+2023-10-27 10:00:35,210 - WARNING - High CPU usage detected
+2023-10-27 10:00:40,543 - ERROR - An unexpected error has occurred
